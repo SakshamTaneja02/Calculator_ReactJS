@@ -1,3 +1,4 @@
+#Calculator
 Just a simple Calculator I made using ReactJS.
 
 # Getting Started with Create React App
